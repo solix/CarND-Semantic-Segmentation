@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+
+./runs/save_model.ckpt.data-00000-of-00001
+./runs/checkpoint
+./runs/save_model.ckpt.data-00000-of-00001
+./runs/save_model.ckpt.index
+./runs/save_model.ckpt.meta
+
 __pycache__/
 *.py[cod]
 *$py.class
